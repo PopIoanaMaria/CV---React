@@ -1,0 +1,19 @@
+.portofolios-about {
+    width: 90%;
+    margin: 0 auto;
+    /* background-color: rgb(120, 182, 182); */
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.portofolios-container {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.portofolios-pozition {
+    /* background-color: bisque; */
+    text-align: center;
+    /* font-size: 22px; */
+}
+

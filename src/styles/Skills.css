@@ -1,0 +1,11 @@
+.container-skills {
+    width: 90%;
+    margin: 50px auto;
+    font-size: 19px;
+}
+
+[type="radio"]:not(:checked)+span:before, [type="radio"]:not(:checked)+span:after {
+    border: 0;
+}
+
+
